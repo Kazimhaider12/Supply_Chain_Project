@@ -7,7 +7,7 @@ Predictive Analytics Dashboard Corpus / Dataset: **DataCo Smart Supply Chain** D
 <img width="1880" height="758" alt="image" src="https://github.com/user-attachments/assets/626d9b45-7fb8-4e73-aba6-81e93957db25" />
 
 
-
+the Dataset is too big So here is the link of kaggle: https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset?resource=download
 🛠️ Phase 1: Tech Stack & Tools Used
 Is project ko industry-standard tools ki madad se mukammal kiya gaya hai:
 
